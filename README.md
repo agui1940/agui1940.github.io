@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Richard’s resume
 
 You can use the [editor on GitHub](https://github.com/agui1940/agui1940.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
